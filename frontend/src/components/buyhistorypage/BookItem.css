@@ -1,0 +1,54 @@
+.book-item-container p {
+    vertical-align: top;
+    display: inline-block;
+}
+
+.book-item-container {
+    margin-top: 10px;
+    border-top: gray 1px solid;
+}
+
+.book-item-container button {
+    display: inline;
+    margin: 75px 5px;
+}
+
+.book-item-container .book-detail{
+    vertical-align: top;
+    height: 180px;
+    display: inline-block;
+    text-align: center;
+}
+.book-item-container .thumbnail {
+    height: 180px;
+}
+
+.real-price {
+    text-decoration-line: line-through; 
+    width: 150px;
+    margin: 75px 0px 75px 10px;
+}
+
+.discount-price {
+    width: 150px;
+    margin: 75px 10px;
+}
+
+.name{
+    width: 200px;
+    margin: 75px 20px;
+}
+
+.author {
+    width: 150px;
+    margin: 75px 20px;
+}
+
+.qty {
+    width: 30px;
+    margin: 75px 0 75px 0
+}
+.total {
+    width: 100px;
+    margin: 75px 5px 75px 5px
+}
